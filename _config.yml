@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "JiamingLi's site"
 title_separator          : "-"
-name                     : &name "xker "
-description              : &description "111"
+name                     : &name "李嘉铭"
+description              : &description "北京大学工学院24级本科生"
 url                      : https://reality256.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "pkuhub-dev/pkuhub-dev.github.io"
+repository               : "reality256/reality256.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -89,7 +89,7 @@ author:
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "jiaming.li.256@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : https://reality256.github.io/
   bitbucket        :
   codepen          :
   dribbble         :
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "reality_256"
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :

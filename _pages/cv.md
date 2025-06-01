@@ -47,20 +47,24 @@ redirect_from:
     <br/><br/>
 </body>
 
-* Name: Your Name 
-* Phone and WeChat: 15705694836 / Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* Personal Website: [iculizhi.github.io](https://iculizhi.github.io/)
+* Name: Jiaming Li 
+* Phone and WeChat: 18940392059 / Email: [jiaming.li.256@outlook.com](jiaming.li.256@outlook.com)
+* Personal Website: [reality256.github.io](https://reality256.github.io/)
 
 Education
 ======
-* Undergraduate: Beijing, Peking University, 2022
-  * Major: Information and Computing Science (Turing Class), School of Electronics Engineering and Computer Science
+* Undergraduate: Beijing, Peking University, 2024
+  * Major: Theoretical and Applied Mechanics, College of Engineering
   * Double Degree: Economics, National School of Development
 
 Awards
 ======
-* Silver Medal, China Mathematical Olympiad (CMO)
+* First Prize, The 39th CMO Provincial Competition
 
+Service and leadership
+======
+* Class President, Class 4, 2024, College of Engineering, Peking University
+* Director of Project Department, Liaoning Culture and Development Exchange Association, Peking University
 <!--
 Work experience
 ======
@@ -93,8 +97,5 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
 -->

@@ -45,16 +45,24 @@ redirect_from:
     <br/><br/>
 </body>
 
-* 姓名: Your Name
-* 电话及微信 15705694836 / 邮箱 [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* 个人主页：[iculizhi.github.io](https://iculizhi.github.io/)
+* 姓名: 李嘉铭
+* 电话及微信 18940392059 / 邮箱 [jiaming.li.256@outlook.com](jiaming.li.256@outlook.com)
+* 个人主页：[reality256.github.io](https://reality256.github.io/)
 
 学历
 ======
-* 本科：北京，北京大学，2022
-  * 专业：信息与计算科学（图灵班），信息科学技术学院
+* 本科：北京，北京大学，2024
+  * 专业：理论与应用力学，工学院
   * 双学位：经济学，国家发展研究院
 
+获奖
+======
+* 2023全国中学生数学奥林匹克竞赛省级一等奖
+
+服务经历
+======
+* 北京大学工学院24级本科4班班长
+* 北京大学学生辽宁文化与发展交流协会项目部部长
 
 
 <!--
