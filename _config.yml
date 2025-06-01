@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "-Pkuhub's site"
+title                    : "JiamingLi's site"
 title_separator          : "-"
 name                     : &name "xker "
 description              : &description "111"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yourname"
-  avatar           : "white.png"
+  name             : "JiamingLi"
+  avatar           : "profile_photo.png"
   bio              : "Peking University"
   location         : "China Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "help@pkuhub.cn"
+  email            : "jiaming.li.256@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pkuhub-dev"
+  github           : "reality256"
   google_plus      :
   keybase          :
   instagram        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  wechat           : 
+  wechat           : "CaptainLee6"
 
 
 # Reading Files
