@@ -65,6 +65,7 @@ Service and leadership
 ======
 * Class President, Class 4, 2024, College of Engineering, Peking University
 * Director of Project Department, Liaoning Culture and Development Exchange Association, Peking University
+
 <!--
 Work experience
 ======

@@ -45,8 +45,8 @@ redirect_from:
     <br/><br/>
 </body>
 
-* 姓名: 李嘉铭
-* 电话及微信 18940392059 / 邮箱 [jiaming.li.256@outlook.com](jiaming.li.256@outlook.com)
+* 姓名：李嘉铭
+* 电话及微信： 18940392059 / 邮箱 [jiaming.li.256@outlook.com](jiaming.li.256@outlook.com)
 * 个人主页：[reality256.github.io](https://reality256.github.io/)
 
 学历
