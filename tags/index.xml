@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on 李嘉铭的小站</title>
+        <link>https://demo.stack.cai.im/tags/</link>
+        <description>Recent content in Tags on 李嘉铭的小站</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sat, 21 Mar 2026 23:08:32 +1100</lastBuildDate><atom:link href="https://demo.stack.cai.im/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Aaa</title>
+            <link>https://demo.stack.cai.im/tags/aaa/</link>
+            <pubDate>Sat, 21 Mar 2026 23:08:32 +1100</pubDate>
+            <guid>https://demo.stack.cai.im/tags/aaa/</guid>
+            <description></description>
+        </item><item>
+            <title>隐私</title>
+            <link>https://demo.stack.cai.im/tags/%E9%9A%90%E7%A7%81/</link>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+            <guid>https://demo.stack.cai.im/tags/%E9%9A%90%E7%A7%81/</guid>
+            <description></description>
+        </item></channel>
+</rss>
