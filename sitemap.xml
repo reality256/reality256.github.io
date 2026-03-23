@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://demo.stack.cai.im/</loc>
+    <loc>http://117.72.208.210/</loc>
     <lastmod>2026-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.cai.im/p/%E8%B4%A2%E5%8A%A1%E4%BC%9A%E8%AE%A1%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/</loc>
+    <loc>http://117.72.208.210/p/financial-accounting/</loc>
     <lastmod>2026-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.cai.im/categories/</loc>
+    <loc>http://117.72.208.210/categories/</loc>
     <lastmod>2026-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.cai.im/post/</loc>
+    <loc>http://117.72.208.210/page/</loc>
     <lastmod>2026-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.cai.im/tags/</loc>
+    <loc>http://117.72.208.210/post/</loc>
     <lastmod>2026-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.cai.im/categories/%E5%A4%A7%E5%AD%A6/</loc>
+    <loc>http://117.72.208.210/tags/</loc>
     <lastmod>2026-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.cai.im/tags/%E7%BB%8F%E6%B5%8E%E5%AD%A6/</loc>
+    <loc>http://117.72.208.210/categories/university/</loc>
     <lastmod>2026-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.cai.im/tags/%E5%8F%8C%E5%AD%A6%E4%BD%8D/</loc>
+    <loc>http://117.72.208.210/about/</loc>
     <lastmod>2026-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.cai.im/page/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <loc>http://117.72.208.210/tags/economics/</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.cai.im/%E5%85%B3%E4%BA%8E/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <loc>http://117.72.208.210/tags/double-degree/</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.cai.im/archives/</loc>
+    <loc>http://117.72.208.210/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.cai.im/%E9%93%BE%E6%8E%A5/</loc>
+    <loc>http://117.72.208.210/links/</loc>
   </url><url>
-    <loc>https://demo.stack.cai.im/search/</loc>
+    <loc>http://117.72.208.210/search/</loc>
   </url>
 </urlset>
